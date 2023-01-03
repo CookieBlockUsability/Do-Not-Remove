@@ -4,5 +4,8 @@
         "www.ticketock.com": {
             "login": 3
 	}
+        "www.ticketbuddy.com": {
+            "login": 0
+	}
     }
 }
