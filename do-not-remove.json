@@ -1,6 +1,9 @@
 {
     "name_match": {},
     "domain_match": {
+        "www.ticketock.com": {
+            "login": 0
+	}
         "www.ticketbuddy.com": {
             "login": 3
 	}
